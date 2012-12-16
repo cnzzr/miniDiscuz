@@ -1,8 +1,0 @@
-P6 启动要求维护数据库是什么意思？
-
-http://www.zxlm.cn/fh/thread-7690-1-2.html
-
-
-P6中的PM登录时提示没有配置数据库以运行后台任务
-
-http://www.zxlm.cn/fh/thread-7585-1-2.html
